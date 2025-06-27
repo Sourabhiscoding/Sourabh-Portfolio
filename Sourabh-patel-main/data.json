@@ -1,0 +1,123 @@
+{
+    "name": "Sourabh Patel",
+    "profile": {
+      "headline": "Data Science Intern at Aimerz.ai | BCA Graduate with a Passion for Crafting AI-Driven Innovations",
+      "location": "Baleswar, Odisha, India",
+      "about": "Startup builder and CSE student with a passion for solving local business problems through tech-driven platforms – from BuildHub to car rentals and ad listing tools. Blending coding, design, and marketing to build scalable impact.
+",
+      "background_image": "https://media.licdn.com/dms/image/v2/D4D03AQGCjly7aU5qHw/profile-displayphoto-shrink_800_800/B4DZV0TrOxG4Ac-/0/1741413070238?e=1756339200&v=beta&t=DNeQg5_gQI4C2qMBjhEpm5S1MmkEy0T9_puw57eNCzg",
+      "linkedin_url": "https://www.linkedin.com/in/sourabh-patel-1435672a3/",
+      "followers": "1K+",
+      "connections": "500+"
+    },
+    "experience": [
+      {
+        "title": "Data Science Intern",
+        "company": "AIMERZ",
+        "company_logo": "https://media.licdn.com/dms/image/v2/D560BAQEJ1F0KbhTEGA/company-logo_100_100/company-logo_100_100/0/1726232444400/aimerz_logo?e=2147483647&v=beta&t=YANGOev7rD0L__aL0iJHk-Wlul3BozCdvcDS6dDuQpk",
+        "company_linkedin_link": "https://in.linkedin.com/company/aimerz?trk=public_profile_experience-item_profile-section-card_subtitle-click",
+        "company_website_link": "https://aimerz.ai/",
+        "start_date": "jun 2024",
+        "end_date": "Present",
+        "duration": "6 months"
+      },
+      {
+        "title": "Content strategist",
+        "company": "AIMERZ",
+        "start_date": "May 2024",
+        "end_date": "Oct 2024",
+        "duration": "6 months"
+      }
+    ],
+    "education": [
+      {
+        "institution": "MATS University ",
+        "degree": "Bachelor's In technology  (B.Tech)",
+        "field": "Computer Programming",
+        "duration": "2023 - 2027",
+        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHUfD7MTNQlxg/company-logo_200_200/company-logo_200_200/0/1681202082827?e=1756339200&v=beta&t=pYC0uZqWlJmrDx0z9irj2x34VZDf3abYDpEab3n02KM",
+        "college_linkedin_link": "https://www.linkedin.com/company/mats-university-leading-university-of-central-india/,
+        "college_website_link": "https://matsuniversity.ac.in/"
+      }
+    ],
+    "highlighted_activities": [
+      {
+        "title": "Are you also learning the same concept again and again, feeling stuck and underconfident?",
+        "link": "https://www.linkedin.com/posts/yesmithun_are-you-also-learning-the-same-concept-again-activity-7317825699933777920-LOk1",
+        "image": "https://media.licdn.com/dms/image/v2/D4D22AQFVJYV-C9H8CA/feedshare-shrink_2048_1536/B4DZY4jsHJGwAw-/0/1744705604309?e=2147483647&v=beta&t=AQhTmwKr3F2IiEhuCOnQyDT1nqHvcofBkxad5sS-uIo"
+      },
+      {
+        "title": "Just completed my Micro-Certification – Welcome to ServiceNow from ServiceNow!",
+        "link": "https://www.linkedin.com/posts/arpita-verma-8b2760251_servicenow-microcertification-certified-activity-7317244705186951168-sky8",
+        "image": "https://media.licdn.com/dms/image/v2/D5622AQGrFzdRs7mlMQ/feedshare-shrink_2048_1536/B56ZYwTR59H0Ao-/0/1744567084407?e=2147483647&v=beta&t=59XwnSLZhsQ7YDFXoLLWiOG12mfZE5paXAXVMfRRmPs"
+      },
+      {
+        "title": "Power-Packed Week on Sequence Modeling, Anomaly Detection & Recommender Systems",
+        "link": "https://www.linkedin.com/posts/joyeeta-majumdar-a7a067281_power-packed-week-on-sequence-modeling-activity-7317224549010337792-VWVG",
+        "image": "https://media.licdn.com/dms/image/v2/D4E22AQG1wApc9R_J2w/feedshare-shrink_2048_1536/B4EZYwA8UyG0Ao-/0/1744562276776?e=2147483647&v=beta&t=JxYiFbve5Oc7XPHNJG6JVCbhHaPIAvwALSOa1bV4th4"
+      },
+      {
+        "title": "Crafting a Smart Expense Tracker with React.js",
+        "link": "https://www.linkedin.com/posts/rachana-jena12_reactjs-tailwindcss-frontenddevelopment-activity-7316320352249253888-Vjf-",
+        "image": "https://media.licdn.com/dms/image/v2/D5605AQEBW4Zb0kEYeg/videocover-high/B56ZYg8BC.GcBs-/0/1744309337004?e=2147483647&v=beta&t=EmOwZElYyaRcsw8Uf37AtTTyZwGTn2dTYfD1XSUGbCw"
+      }
+    ],
+    "skills": {
+      "industry_knowledge": [
+        "Machine Learning",
+        "Statistical Data Analysis",
+        "Artificial Intelligence (AI)",
+        "Generative AI",
+        "Artificial Intelligence for Business",
+        "Natural Language Processing (NLP)",
+        "Project Management",
+        "Programming Concepts",
+        "Creative Problem Solving",
+        "Mathematics",
+        "Secondary Mathematics",
+        "Data Structures"
+      ],
+      "tools_and_technologies": [
+        "Git",
+        "GitHub",
+        "Git BASH",
+        "Postman API",
+        "Microsoft Office",
+        "Linux",
+        "MongoDB",
+        "SQL",
+        "HTML"
+      ],
+      "libraries_frameworks": [
+        "NumPy",
+        "Pandas",
+        "Matplotlib",
+        "Seaborn",
+        "Plotly",
+        "streamlit",
+        "flask",
+        "fastAPI",
+        "Scikit-Learn"
+      ],
+      "programming_languages": [
+        "Python",
+        "C",
+        "C++",
+        "Core Java",
+        "SQL"
+      ],
+      "concepts_approaches": [
+        "Object-Oriented Programming (OOP)",
+        "NoSQL Databases"
+      ],
+      "interpersonal_skills": [
+        "Time Management",
+        "Adaptability",
+        "Communication",
+        "Team Collaboration",
+        "Leadership",
+        "Creative Problem Solving"
+      ]
+    }
+  }
+  
